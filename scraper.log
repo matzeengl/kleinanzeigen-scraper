@@ -1,0 +1,17 @@
+2021-08-22 21:04:42,404 [INFO] Started logger
+2021-08-22 21:04:42,405 [INFO] Starting telegram bot
+2021-08-22 21:04:42,405 [INFO] Starting browser
+2021-08-22 21:04:47,022 [INFO] Starting scheduler
+2021-08-22 21:04:47,116 [INFO] Scheduler started
+2021-08-22 21:04:47,117 [INFO] Starting main()
+2021-08-22 21:04:47,118 [INFO] Starting Callback Handlers
+2021-08-22 21:04:47,118 [INFO] Scheduler started
+2021-08-22 21:04:47,140 [WARNING] Run time of job "get_items_per_url (trigger: interval[0:01:00], next run at: 2021-08-22 21:04:12 CEST)" was missed by 0:00:34.259105
+2021-08-22 21:05:09,843 [INFO] Bot received delete command
+2021-08-22 21:05:12,905 [INFO] Running job "get_items_per_url (trigger: interval[0:01:00], next run at: 2021-08-22 21:06:12 CEST)" (scheduled at 2021-08-22 21:05:12.881886+02:00)
+2021-08-22 21:05:14,387 [INFO] Removed job 504899574_Liebeshorst
+2021-08-22 21:05:21,179 [INFO] Received signal 2 (SIGINT), stopping...
+2021-08-22 21:05:21,179 [INFO] Scheduler has been shut down
+2021-08-22 21:05:21,180 [INFO] Starting browser
+2021-08-22 21:05:26,981 [INFO] Found 25 ads.
+2021-08-22 21:05:27,719 [INFO] Job "get_items_per_url (trigger: interval[0:01:00], next run at: 2021-08-22 21:06:12 CEST)" executed successfully

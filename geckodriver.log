@@ -1,0 +1,569 @@
+1626708565845	geckodriver	INFO	Listening on 127.0.0.1:57492
+1626708568884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileDV3yQ2"
+1626708569195	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileDV3yQ2\\search.json.mozlz4", (void 0)))
+1626708570999	Marionette	INFO	Listening on port 57501
+1626708571058	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626708706115	geckodriver	INFO	Listening on 127.0.0.1:49170
+1626708709135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileItOUtO"
+1626708709424	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileItOUtO\\search.json.mozlz4", (void 0)))
+1626708711197	Marionette	INFO	Listening on port 49579
+1626708711305	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626709099332	geckodriver	INFO	Listening on 127.0.0.1:60273
+1626709102357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilekYMEvm"
+1626709102672	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilekYMEvm\\search.json.mozlz4", (void 0)))
+1626709104457	Marionette	INFO	Listening on port 60283
+1626709104513	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626709152947	Marionette	INFO	Stopped listening on port 60283
+1626709165077	geckodriver	INFO	Listening on 127.0.0.1:57808
+1626709168104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileCoL311"
+1626709168382	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileCoL311\\search.json.mozlz4", (void 0)))
+1626709170276	Marionette	INFO	Listening on port 53073
+1626709170787	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626709267338	geckodriver	INFO	Listening on 127.0.0.1:51911
+1626709270364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileGyGWxY"
+1626709270701	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileGyGWxY\\search.json.mozlz4", (void 0)))
+1626709272526	Marionette	INFO	Listening on port 50769
+1626709273050	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626709505053	geckodriver	INFO	Listening on 127.0.0.1:59809
+1626709508117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileetVG4P"
+1626709508391	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileetVG4P\\search.json.mozlz4", (void 0)))
+1626709510335	Marionette	INFO	Listening on port 53077
+1626709510796	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+1626709748650	geckodriver	INFO	Listening on 127.0.0.1:59642
+1626709751672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileb5SXVw"
+1626709751966	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileb5SXVw\\search.json.mozlz4", (void 0)))
+1626709753739	Marionette	INFO	Listening on port 49972
+1626709753845	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626709816297	geckodriver	INFO	Listening on 127.0.0.1:64402
+1626709819324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileyqXV5g"
+1626709819601	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileyqXV5g\\search.json.mozlz4", (void 0)))
+1626709821377	Marionette	INFO	Listening on port 49578
+1626709821495	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626776995362	geckodriver	INFO	Listening on 127.0.0.1:55939
+1626776998401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofiley4bGKI"
+1626776998915	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofiley4bGKI\\search.json.mozlz4", (void 0)))
+1626777000991	Marionette	INFO	Listening on port 55947
+1626777001084	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626777053990	geckodriver	INFO	Listening on 127.0.0.1:58147
+1626777057021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilea2uCzf"
+1626777057269	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilea2uCzf\\search.json.mozlz4", (void 0)))
+1626777059007	Marionette	INFO	Listening on port 60036
+1626777059068	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626777338925	geckodriver	INFO	Listening on 127.0.0.1:51797
+1626777341943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileMiWXgr"
+1626777342197	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileMiWXgr\\search.json.mozlz4", (void 0)))
+1626777344067	Marionette	INFO	Listening on port 51808
+1626777344113	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626777444977	Marionette	INFO	Stopped listening on port 51808
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626777446730	geckodriver	INFO	Listening on 127.0.0.1:53881
+1626777449750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofiletCjmvn"
+1626777450017	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofiletCjmvn\\search.json.mozlz4", (void 0)))
+1626777451880	Marionette	INFO	Listening on port 53889
+1626777451921	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626777551170	geckodriver	INFO	Listening on 127.0.0.1:64605
+1626777554220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilefpinQt"
+1626777554470	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilefpinQt\\search.json.mozlz4", (void 0)))
+1626777556075	Marionette	INFO	Listening on port 64613
+1626777556275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626777751279	geckodriver	INFO	Listening on 127.0.0.1:64722
+1626777754295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileABXNOm"
+1626777754560	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileABXNOm\\search.json.mozlz4", (void 0)))
+1626777756164	Marionette	INFO	Listening on port 64730
+1626777756342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626777928015	geckodriver	INFO	Listening on 127.0.0.1:55935
+1626777931032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofile8yAebE"
+1626777931296	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofile8yAebE\\search.json.mozlz4", (void 0)))
+1626777933074	Marionette	INFO	Listening on port 55943
+1626777933190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626778051480	geckodriver	INFO	Listening on 127.0.0.1:58137
+1626778054517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilex35Gag"
+1626778054781	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilex35Gag\\search.json.mozlz4", (void 0)))
+1626778056603	Marionette	INFO	Listening on port 58145
+1626778056686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626778458552	geckodriver	INFO	Listening on 127.0.0.1:57830
+1626778461592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileMEOCrO"
+1626778461841	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileMEOCrO\\search.json.mozlz4", (void 0)))
+1626778463506	Marionette	INFO	Listening on port 57847
+1626778463653	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626778487780	geckodriver	INFO	Listening on 127.0.0.1:58173
+1626778490830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileN1xRU8"
+1626778491079	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileN1xRU8\\search.json.mozlz4", (void 0)))
+1626778492821	Marionette	INFO	Listening on port 58182
+1626778492889	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1626779160903	geckodriver	INFO	Listening on 127.0.0.1:58141
+1626779163949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilegDFKbZ"
+1626779164205	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilegDFKbZ\\search.json.mozlz4", (void 0)))
+1626779165912	Marionette	INFO	Listening on port 58149
+1626779165998	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626782774777	geckodriver	INFO	Listening on 127.0.0.1:53694
+1626782777801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileXgfc2X"
+1626782778061	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileXgfc2X\\search.json.mozlz4", (void 0)))
+1626782779825	Marionette	INFO	Listening on port 53702
+1626782779863	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626782829350	geckodriver	INFO	Listening on 127.0.0.1:53869
+1626782832376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileGLizVe"
+1626782832628	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileGLizVe\\search.json.mozlz4", (void 0)))
+1626782834359	Marionette	INFO	Listening on port 53877
+1626782834435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626782924290	geckodriver	INFO	Listening on 127.0.0.1:55955
+1626782927347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileaAoRPz"
+1626782927599	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileaAoRPz\\search.json.mozlz4", (void 0)))
+1626782929435	Marionette	INFO	Listening on port 55965
+1626782929517	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626783189810	geckodriver	INFO	Listening on 127.0.0.1:62876
+1626783192850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileZ3jOfp"
+1626783193100	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileZ3jOfp\\search.json.mozlz4", (void 0)))
+1626783194821	Marionette	INFO	Listening on port 62886
+1626783194910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626783319204	geckodriver	INFO	Listening on 127.0.0.1:60049
+1626783322249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileyxizQ7"
+1626783322507	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileyxizQ7\\search.json.mozlz4", (void 0)))
+1626783324358	Marionette	INFO	Listening on port 60058
+1626783324417	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626783496350	geckodriver	INFO	Listening on 127.0.0.1:58145
+1626783499377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileaCMNyD"
+1626783499623	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileaCMNyD\\search.json.mozlz4", (void 0)))
+1626783501386	Marionette	INFO	Listening on port 58153
+1626783501436	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626783688289	geckodriver	INFO	Listening on 127.0.0.1:62392
+1626783691310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofile3pcY7o"
+1626783691566	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofile3pcY7o\\search.json.mozlz4", (void 0)))
+1626783693452	Marionette	INFO	Listening on port 62403
+1626783693482	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626783869273	geckodriver	INFO	Listening on 127.0.0.1:49315
+1626783872328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileiZ56II"
+1626783872585	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileiZ56II\\search.json.mozlz4", (void 0)))
+1626783874357	Marionette	INFO	Listening on port 49323
+1626783874388	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626784610912	geckodriver	INFO	Listening on 127.0.0.1:55934
+1626784613946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileUxdbig"
+1626784614214	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileUxdbig\\search.json.mozlz4", (void 0)))
+1626784615805	Marionette	INFO	Listening on port 55943
+1626784616008	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626786038927	geckodriver	INFO	Listening on 127.0.0.1:60117
+1626786041958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileNh4MnI"
+1626786042224	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileNh4MnI\\search.json.mozlz4", (void 0)))
+1626786044147	Marionette	INFO	Listening on port 60229
+1626786044642	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626786368995	geckodriver	INFO	Listening on 127.0.0.1:55929
+1626786372028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileWMG49x"
+1626786372291	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileWMG49x\\search.json.mozlz4", (void 0)))
+1626786373888	Marionette	INFO	Listening on port 55937
+1626786374088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626786387489	geckodriver	INFO	Listening on 127.0.0.1:56001
+1626786390532	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofiletySc75"
+1626786390783	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofiletySc75\\search.json.mozlz4", (void 0)))
+1626786392632	Marionette	INFO	Listening on port 56009
+1626786392702	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1626787189069	geckodriver	INFO	Listening on 127.0.0.1:58182
+1626787192105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilebDeo9s"
+1626787192364	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilebDeo9s\\search.json.mozlz4", (void 0)))
+1626787194104	Marionette	INFO	Listening on port 58191
+1626787194164	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626787492866	geckodriver	INFO	Listening on 127.0.0.1:55930
+1626787495912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileg2Cwdy"
+1626787496171	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileg2Cwdy\\search.json.mozlz4", (void 0)))
+1626787498065	Marionette	INFO	Listening on port 55938
+1626787498084	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626787559163	geckodriver	INFO	Listening on 127.0.0.1:60039
+1626787562185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileMwRCW8"
+1626787562429	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileMwRCW8\\search.json.mozlz4", (void 0)))
+1626787564285	Marionette	INFO	Listening on port 60049
+1626787564340	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626787740727	geckodriver	INFO	Listening on 127.0.0.1:62504
+1626787743752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileuXsamU"
+1626787744011	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileuXsamU\\search.json.mozlz4", (void 0)))
+1626787745696	Marionette	INFO	Listening on port 62512
+1626787745814	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626788001185	Marionette	INFO	Stopped listening on port 62512
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626788156807	geckodriver	INFO	Listening on 127.0.0.1:49351
+1626788159843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileanZghl"
+1626788160108	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileanZghl\\search.json.mozlz4", (void 0)))
+1626788162000	Marionette	INFO	Listening on port 49360
+1626788162010	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626788490522	geckodriver	INFO	Listening on 127.0.0.1:51780
+1626788493557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileEwku0J"
+1626788493809	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileEwku0J\\search.json.mozlz4", (void 0)))
+1626788495693	Marionette	INFO	Listening on port 51788
+1626788495727	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626788882194	geckodriver	INFO	Listening on 127.0.0.1:55944
+1626788885237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileBQokyR"
+1626788885499	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileBQokyR\\search.json.mozlz4", (void 0)))
+1626788887266	Marionette	INFO	Listening on port 62402
+1626788887297	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626789047376	geckodriver	INFO	Listening on 127.0.0.1:53885
+1626789050416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofile7Jwgm8"
+1626789050669	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofile7Jwgm8\\search.json.mozlz4", (void 0)))
+1626789052419	Marionette	INFO	Listening on port 53895
+1626789052476	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626789307507	geckodriver	INFO	Listening on 127.0.0.1:62340
+1626789310523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileWsVXeB"
+1626789310778	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileWsVXeB\\search.json.mozlz4", (void 0)))
+1626789312526	Marionette	INFO	Listening on port 62349
+1626789312588	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626789606869	geckodriver	INFO	Listening on 127.0.0.1:63407
+1626789609909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileQvtESg"
+1626789610163	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileQvtESg\\search.json.mozlz4", (void 0)))
+1626789611877	Marionette	INFO	Listening on port 63415
+[Parent 9908, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1626789611963	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://gum.criteo.com/sync?c=72&r=2&j=TRC.getRTUS, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 9144, MediaDecoderStateMachine #1] WARNING: 169a7307c80 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:323
+[Child 9144, MediaDecoderStateMachine #1] WARNING: Decoder=169c6485000 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3916
+[Child 9144, MediaDecoderStateMachine #1] WARNING: 169c64c2040 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:323
+[Child 9144, MediaDecoderStateMachine #1] WARNING: Decoder=169c6485000 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3916
+[Child 9144, MediaDecoderStateMachine #1] WARNING: 169a9f6b2e0 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:323
+[Child 9144, MediaDecoderStateMachine #1] WARNING: Decoder=169c6485000 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3916
+[Child 9144, MediaDecoderStateMachine #1] WARNING: 169c5cd7820 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:323
+[Child 9144, MediaDecoderStateMachine #1] WARNING: Decoder=169cac86000 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3916
+[Child 9144, MediaDecoderStateMachine #1] WARNING: 169a7307ba0 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:323
+[Child 9144, MediaDecoderStateMachine #1] WARNING: Decoder=169cac86000 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3916
+[Child 9144, MediaDecoderStateMachine #1] WARNING: 169a9f6bc80 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:323
+[Child 9144, MediaDecoderStateMachine #1] WARNING: Decoder=169cac86000 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3916
+[Child 9144, MediaDecoderStateMachine #1] WARNING: 169a9062120 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:323
+[Child 9144, MediaDecoderStateMachine #1] WARNING: Decoder=169c8562800 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3916
+[Child 9144, MediaDecoderStateMachine #1] WARNING: 169c8915d60 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:323
+[Child 9144, MediaDecoderStateMachine #1] WARNING: Decoder=169c8562800 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3916
+[Child 9144, MediaDecoderStateMachine #1] WARNING: 169a7307580 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:323
+[Child 9144, MediaDecoderStateMachine #1] WARNING: Decoder=169c8562800 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3916
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.ampproject.org/rtv/012107130206000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://lh6.googleusercontent.com/proxy/HZx-EhPd2B8zSV94PC4oIHj-4KQCoVs9hHRAMWK5XC3Df6kW8FScBHU-jrP0_c65nrf0IjmccRlXn7mWTEUkkQwWwMtIRqXQj-au728oXE5pSUUfEWtJ-MSeox6MWjt9RHqObN0VtL9j9wabUOEY_lJMlKukHdzDsz3D794b6rOuIUzYgKBfEs7mCow5rNY=w1200-h627-rp-pd​​​
+1626858768884	geckodriver	INFO	Listening on 127.0.0.1:53392
+1626858771951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileimeDkd"
+1626858772484	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileimeDkd\\search.json.mozlz4", (void 0)))
+1626858774632	Marionette	INFO	Listening on port 53400
+1626858775152	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629658418430	geckodriver	INFO	Listening on 127.0.0.1:59558
+1629658421470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilePYi4hS"
+*** You are running in headless mode.
+1629658421886	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofilePYi4hS\\search.json.mozlz4", (void 0)))
+1629658422761	Marionette	INFO	Listening on port 59567
+1629658423021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629658541274	geckodriver	INFO	Listening on 127.0.0.1:52930
+1629658544319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileSijCyi"
+*** You are running in headless mode.
+1629658544574	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileSijCyi\\search.json.mozlz4", (void 0)))
+1629658545341	Marionette	INFO	Listening on port 52938
+1629658545862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+o read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+1629658692433	geckodriver	INFO	Listening on 127.0.0.1:53969
+1629658695457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileiR8996"
+*** You are running in headless mode.
+1629658695712	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matth\\AppData\\Local\\Temp\\rust_mozprofileiR8996\\search.json.mozlz4", (void 0)))
+1629658696525	Marionette	INFO	Listening on port 53977
+1629658697000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+o read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+o read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+o read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+o read VR Path Registry from C:\Users\matth\AppData\Local\openvr\openvrpaths.vrpath
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
